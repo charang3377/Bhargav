@@ -14,3 +14,15 @@ java, python, shell scripting, bash
 =======
 CHaran- Java, python, bash, shell scripting
 >>>>>>> 2ef6901336279e129536321d53b212265c90f879
+
+hi this is a sample project for training purpose.
+learning phase is very awesome.
+well the company atmosphere is fantastic.
+java
+python
+bash
+shell scripting 
+bash
+bitbucket
+jenkins
+
