@@ -8,5 +8,9 @@
 
 </body>
 </html>
+<<<<<<< HEAD
 
 java, python, shell scripting, bash
+=======
+CHaran- Java, python, bash, shell scripting
+>>>>>>> 2ef6901336279e129536321d53b212265c90f879
